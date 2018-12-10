@@ -1,6 +1,6 @@
 {
   "name": "react-avatar-cropper-khawer",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "repository": "https://github.com/DropsOfSerenity/react-avatar-cropper",
   "description": "An avatar cropper meant to be a complete solution to avatar cropping.",
   "main": "dist/ReactAvatarCropper.min.js",
@@ -21,7 +21,7 @@
     "react"
   ],
   "dependencies": {
-    "react-bootstrap": "^0.30.2",
+    "react-bootstrap": "^0.32.4",
     "warning": "^2.1.0"
   },
   "peerDependencies": {
